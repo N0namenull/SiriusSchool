@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fba16bdc-666b-43bf-a824-f0220cd75971" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
+  <component name="ProjectId" id="2T7cYIQE2e4hzOTmrSH6XXK8icP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/OpenServer/domains/projectwork1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba16bdc-666b-43bf-a824-f0220cd75971" name="Changes" comment="" />
+      <created>1690397605988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690397605988</updated>
+      <workItem from="1690397607032" duration="2873000" />
+      <workItem from="1690406296617" duration="2790000" />
+      <workItem from="1690409153879" duration="563000" />
+      <workItem from="1690409728776" duration="17000" />
+      <workItem from="1690409755954" duration="8000" />
+      <workItem from="1690409771103" duration="120000" />
+      <workItem from="1690409928493" duration="71000" />
+      <workItem from="1690494463556" duration="26000" />
+      <workItem from="1690494501461" duration="12000" />
+      <workItem from="1690494526970" duration="11000" />
+      <workItem from="1690494544625" duration="2128000" />
+      <workItem from="1690497383895" duration="10000" />
+      <workItem from="1690561078289" duration="7822000" />
+      <workItem from="1690632006863" duration="7759000" />
+      <workItem from="1690746971425" duration="63000" />
+      <workItem from="1691488309716" duration="1796000" />
+      <workItem from="1691490192290" duration="4402000" />
+      <workItem from="1691573916542" duration="646000" />
+      <workItem from="1691851132072" duration="1307000" />
+      <workItem from="1692016914549" duration="1126000" />
+      <workItem from="1692021288393" duration="3483000" />
+      <workItem from="1692025001662" duration="10892000" />
+      <workItem from="1692097298618" duration="7688000" />
+      <workItem from="1692122398132" duration="2955000" />
+      <workItem from="1692800371028" duration="47000" />
+      <workItem from="1692800427963" duration="25000" />
+      <workItem from="1692800507205" duration="26000" />
+      <workItem from="1692801536602" duration="6958000" />
+      <workItem from="1692875754295" duration="4160000" />
+      <workItem from="1692915468497" duration="4346000" />
+      <workItem from="1693085189685" duration="3834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
